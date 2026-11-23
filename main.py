@@ -8,10 +8,7 @@ u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb.
 
 import os
 
-ENTRY = (
-    "Iran strikes US bases in Bahrain and three tankers in the Strait of "
-    "Hormuz as Trump rejects Tehran's offer of a deal."
-)
+ENTRY = "Iran Strikes U.S. Bases in Bahrain, Attacks Hormuz Tankers as Trump Rejects Tehran's Peace Terms"
 
 
 def main() -> None:
